@@ -12,8 +12,6 @@
 
 Estou em transição de carreira em direção à tecnologia, atualmente cursando Análise e Desenvolvimento de Sistemas. Meu foco principal é desenvolvimento Front-End, com o objetivo de crescer para Full Stack.
 
-Também sou responsável por um negócio próprio, a Pastelaria Mais Sabor — essa vivência de gestão e operação me deu uma visão prática de processos, organização e resolução de problemas reais, que hoje aplico também no desenvolvimento de software.
-
 ---
 
 ### 🎯 Atualmente trabalhando com
