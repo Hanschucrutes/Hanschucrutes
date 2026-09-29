@@ -34,6 +34,13 @@ Estou em transição de carreira em direção à tecnologia, atualmente cursando
 
 *Cada projeto representa uma etapa da minha evolução em desenvolvimento de software.*
 
+#### 🥟 [Pastelaria Mais Sabor](https://github.com/Hanschucrutes/pastelaria-mais-sabor)
+
+Link-in-bio e cardápio digital de uma pastelaria delivery, com pedidos por WhatsApp, iFood e 99Food. Layout responsivo, sem frameworks, com identidade visual baseada na logo do negócio.
+
+`HTML` `CSS`
+
+🔗 [Ver online](https://pastelaria-mais-sabor.vercel.app) · 💻 [Código](https://github.com/Hanschucrutes/pastelaria-mais-sabor)
 ---
 
 ### 🎯 O que busco
