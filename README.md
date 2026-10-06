@@ -4,7 +4,7 @@
 🎓 Graduanda em Análise e Desenvolvimento de Sistemas — conclusão em 2026 (UniCesumar)
 🚀 Tecnologia, negócios e desenvolvimento de soluções que geram impacto
 
-`React` | `TypeScript` | `JavaScript`
+`HTML` |  `CSS` | `React` | `JavaScript`
 
 ---
 
