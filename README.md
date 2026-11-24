@@ -1,57 +1,47 @@
-### Olá, eu sou Thaís 👋
+# Olá! Eu sou a Thaís 👋
 
-💻 Desenvolvedora Front-End | Full Stack Júnior (em formação)
-🎓 Graduanda em Análise e Desenvolvimento de Sistemas — conclusão em 2026 (UniCesumar)
-🚀 Tecnologia, negócios e desenvolvimento de soluções que geram impacto
-
-`HTML` |  `CSS` | `React` | `JavaScript`
+🎓 Estudante de Análise e Desenvolvimento de Sistemas — UniCesumar  
+🛡️ Em formação em Cybersecurity  
+🔎 Interesse profissional em SOC | Blue Team | Segurança da Informação
 
 ---
 
-### 🙋‍♀️ Sobre mim
+## 🙋‍♀️ Sobre mim
 
-Estou em transição de carreira em direção à tecnologia, atualmente cursando Análise e Desenvolvimento de Sistemas. Meu foco principal é desenvolvimento Front-End, com o objetivo de crescer para Full Stack.
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou direcionando minha carreira para a área de Cibersegurança.
 
----
+Atualmente, estou construindo minha base em segurança da informação, redes de computadores e infraestrutura, com o objetivo de iniciar minha carreira como Analista SOC.
 
-### 🎯 Atualmente trabalhando com
+Acredito no aprendizado contínuo e busco desenvolver conhecimentos por meio de cursos, estudos práticos e projetos.
 
-- 🖥️ **Front-End**: HTML5, CSS3 (Flexbox), JavaScript e React
-- 🎨 Fundamentos de UI/temas (dark/light) com `data-tema` e CSS custom properties
-- 🔜 **Back-End** (próxima fase): Node.js, Express e banco de dados (PostgreSQL ou MongoDB)
+## 📚 Atualmente estudando
 
-### 📚 Atualmente estudando
+- 🛡️ Bootcamp de Cybersegurança — DIO
+- 🌐 Arquitetura de Redes — Udemy
+- 🎓 Análise e Desenvolvimento de Sistemas — UniCesumar
 
-- ⚛️ React e TypeScript
-- 🧩 JavaScript avançado e lógica de programação
-- 🗄️ Banco de dados e modelagem
-- ☁️ Deploy e boas práticas / Clean Code
-- 🛡️ Cybersecurity (interesse de longo prazo, com foco futuro em AppSec)
+## 🎯 Áreas de interesse
 
----
+- Security Operations Center (SOC)
+- Blue Team e Segurança Defensiva
+- Redes de Computadores
+- Monitoramento e análise de eventos de segurança
+- Análise de logs e investigação de incidentes
 
-### 📌 Projetos em destaque
+## 💻 Minha trajetória em tecnologia
 
-*Cada projeto representa uma etapa da minha evolução em desenvolvimento de software.*
+Antes de direcionar meus estudos para Cibersegurança, desenvolvi projetos utilizando HTML, CSS e JavaScript.
 
-#### 🥟 [Pastelaria Mais Sabor](https://github.com/Hanschucrutes/pastelaria-mais-sabor)
+Esses projetos fazem parte da minha evolução e representam minha experiência inicial com desenvolvimento de software.
 
-Link-in-bio e cardápio digital de uma pastelaria delivery, com pedidos por WhatsApp, iFood e 99Food. Layout responsivo, sem frameworks, com identidade visual baseada na logo do negócio.
+## 🚀 Objetivo profissional
 
-`HTML` `CSS`
+Estou em busca da minha primeira oportunidade na área de Tecnologia da Informação, com foco em Cibersegurança, especialmente em posições de estágio ou SOC N1.
 
-🔗 [Ver online](https://pastelaria-mais-sabor.vercel.app) · 💻 [Código](https://github.com/Hanschucrutes/pastelaria-mais-sabor)
----
+Meu objetivo é transformar conhecimento em experiência prática, aprender com profissionais da área e construir uma carreira sólida em Segurança da Informação.
 
-### 🎯 O que busco
+## 📫 Vamos nos conectar?
 
-Estou em busca de oportunidades em Desenvolvimento de Software, especialmente em posições de Estágio ou Desenvolvedora Júnior Front-End.
-
-Meu objetivo é aplicar meus conhecimentos em projetos reais, aprender com profissionais experientes e evoluir continuamente como desenvolvedora.
-
----
-
-### 📫 Conecte-se comigo
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaisefm68@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thais-fernandes94)
+- GitHub: [@Hanschucrutes](https://github.com/Hanschucrutes)
+- LinkedIn: [Thaís Fernandes](https://linkedin.com/in/thais-fernandes94)
+- E-mail: thaisefm68@gmail.com
